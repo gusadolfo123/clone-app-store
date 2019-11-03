@@ -89,33 +89,135 @@
       </div>
     </div>
 
-    <p>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque modi, aliquam illo sunt optio obcaecati vitae hic, minima odit eaque cum repellendus sequi voluptatem quos officia laudantium eligendi repellat. Dicta.
-      Iure repellat unde dolorum sunt quam ex, enim adipisci earum. Iusto sunt, velit deleniti quas dolore quasi iste at? Adipisci et omnis impedit? Ullam iusto temporibus repudiandae corrupti totam eos?
-      Qui dolor ea iure voluptatibus eum explicabo pariatur consectetur nostrum eius aperiam! Quibusdam laboriosam veniam earum impedit cum. Repellat suscipit doloribus reprehenderit accusamus id necessitatibus, sint autem excepturi ad eveniet?
-      Porro neque molestias recusandae dolore autem. Culpa obcaecati dolorem itaque pariatur nostrum odio inventore in quam, vero, cupiditate rem natus voluptatibus. Iste quam cupiditate nostrum dolores rerum temporibus perspiciatis atque!
-      Asperiores dolore quia debitis doloremque corporis veritatis fugit maiores ipsam eligendi impedit blanditiis autem, perferendis iste. Soluta velit ipsa facere. Maiores, voluptatem nostrum. Possimus libero cumque quia molestiae, pariatur autem?
-      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur impedit repellendus quo ut quod maiores consequatur placeat. Accusamus unde illo nemo qui officia sed modi blanditiis. Sequi dolorum voluptate laboriosam!
-      Veniam odio delectus voluptatem nobis voluptatibus, voluptatum totam excepturi non a ad nam omnis, pariatur cum atque! Omnis eveniet sint tempora aspernatur corrupti inventore quas ratione quaerat, fuga illo. Facilis.
-      Eligendi aut corporis ex, odit accusantium numquam. Velit tenetur necessitatibus exercitationem inventore doloribus. Perspiciatis distinctio officia reiciendis consequuntur, error veniam facilis deleniti aspernatur consequatur voluptatem eos aperiam dolores cupiditate quis.
-      Dignissimos sed recusandae libero exercitationem commodi ducimus dolor. Delectus voluptas quam maiores, soluta quod ipsam eligendi odio vel est aspernatur culpa, eveniet animi expedita, harum iure doloremque esse exercitationem dignissimos?
-      Quibusdam nam natus suscipit officia aspernatur quos rerum, rem provident modi eum accusamus perspiciatis cumque nihil voluptates omnis. Unde temporibus distinctio eius assumenda, suscipit totam iste necessitatibus nostrum? Cupiditate, beatae.
-      Natus velit inventore fugit quos ut quidem ullam reiciendis officiis illo vel harum, ab eaque sapiente facilis necessitatibus at est impedit deserunt repellat soluta corporis ad doloribus sint quam. Porro?
-      Iure autem error quia obcaecati eaque vitae nostrum quas quos recusandae ab! Explicabo, molestias? Odio in repellat beatae accusamus, illum voluptate blanditiis aperiam atque aut! Ipsa repellendus consequuntur laboriosam sequi.
-      Voluptatum reiciendis tenetur eos praesentium, doloremque quis adipisci sint sed dolorem maxime iste quidem doloribus sunt libero et quia officia neque perferendis, expedita, esse optio aperiam quasi? Impedit, qui laboriosam?
-      Minima, iste cumque error eaque sunt laborum eos, officiis rerum dolore maxime vero deleniti dignissimos consequuntur reprehenderit animi qui nam corporis autem modi nisi eveniet dolor corrupti? Quo, deserunt amet.
-      Quos suscipit dignissimos magnam possimus odio id debitis. Iusto incidunt nam neque obcaecati itaque natus esse porro expedita in sit, fuga quasi assumenda doloribus odit laboriosam voluptatem pariatur repellat reiciendis.
-      Rem sunt delectus repellat explicabo dolores, et quas nihil nam inventore, cum corrupti, nostrum natus doloribus perferendis. Ducimus molestias, aperiam doloremque officia, recusandae omnis fugiat provident dolorum nesciunt sapiente delectus!
-      Molestias saepe culpa quos cumque deserunt, nihil sapiente corrupti numquam at dolore nulla earum rerum quibusdam optio doloremque voluptate non blanditiis tempora! Excepturi at, nihil quos labore consequuntur vitae neque!
-      Enim dolorum facilis facere hic odio quam minus quasi, dolorem aliquid modi cumque laborum possimus rem accusamus doloremque veritatis dignissimos iste, delectus explicabo. Deserunt ratione inventore ducimus expedita a porro!
-      Possimus natus exercitationem veniam est eius, pariatur soluta deleniti corporis esse voluptas ipsam voluptate laudantium ut ex, dolor quaerat non nisi. Atque enim alias nisi earum corrupti. Veniam, odit ratione.
-      Cum explicabo soluta repellendus nemo iste rerum! Cupiditate culpa quis amet vero libero doloremque sequi blanditiis molestiae soluta? Quam tempore possimus adipisci nemo, quaerat doloremque blanditiis repellat odio in enim.
-      Eum illum dolorum dolore impedit corrupti culpa? Expedita odit molestias accusantium, ratione in maiores nobis unde eius, quis a culpa laborum! Veniam sit magnam, soluta quasi recusandae doloribus fugit! Sit!
-      Amet fugit provident quod est, culpa suscipit? Architecto totam corporis non. Aut quaerat odit consectetur velit nemo voluptatibus cum aliquid, vel quasi! Dolore ad eligendi, corrupti sed id ipsam similique.
-      Praesentium tempore assumenda, distinctio placeat reiciendis, incidunt doloribus illo ea porro, facilis rem inventore repudiandae dicta? Impedit, iusto! Neque hic alias molestias a facere praesentium vel officiis delectus. Necessitatibus, minus?
-      Eius consectetur obcaecati laboriosam magnam officia dolorum veritatis voluptates atque, nihil ut error vel non deserunt esse nobis animi natus iure explicabo voluptatibus odit minima amet earum dolorem! Aperiam, placeat.
-      Commodi maxime minus consectetur, a ut nesciunt ipsa suscipit, dolorum ipsum, saepe distinctio totam quasi aliquid repellendus? Magni, quo cupiditate quis quasi molestias iure numquam officia facere obcaecati, ullam explicabo?
-    </p>
+    <div class="border-b border-gray-500 mb-4"></div>
+
+    <div class="top-paid text-white px-10">
+      <div class="flex justify-between">
+        <h2 class="font-normal mb-8">Top Paid</h2>
+        <a href="#" class="text-blue-400 no-underline">See All</a>
+      </div>
+
+      <div>
+        <div class="flex">
+          <div class="w-1/2 pr-6">
+            <div class="flex mb-8" @click="product('Final Cut Pro')">
+              <div>
+                <img src="../assets/icon_fcp.png" alt="icon" class="w-12" />
+              </div>
+              <div class="ml-3">1</div>
+              <div class="ml-3 flex flex-1 justify-between border-b border-gray-600">
+                <div>
+                  <div class="mb-1">Final Cut Pro</div>
+                  <div class="text-gray-400 text-xs mb-6">Professional post-production</div>
+                </div>
+                <div>
+                  <span
+                    class="bg-white text-blue-600 rounded-full px-3 py-1 text-xs font-bold"
+                  >$399.99</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="flex mb-8" @click="product('Magnet')">
+              <div>
+                <img src="../assets/icon_magnet.png" alt="icon" class="w-12" />
+              </div>
+              <div class="ml-3">2</div>
+              <div class="ml-3 flex flex-1 justify-between border-b border-grey-darker">
+                <div>
+                  <div class="mb-1">Magnet</div>
+                  <div class="text-grey text-xs mb-6">Organize Your Workspace</div>
+                </div>
+                <div>
+                  <span
+                    class="bg-white text-blue-600 rounded-full px-3 py-1 text-xs font-bold"
+                  >$1.39</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="flex mb-8" @click="product('DaisyDisk')">
+              <div>
+                <img src="../assets/icon_daisydisk.png" alt="icon" class="w-12" />
+              </div>
+              <div class="ml-3">3</div>
+              <div class="ml-3 flex flex-1 justify-between">
+                <div>
+                  <div class="mb-1">DaisyDisk</div>
+                  <div class="text-grey text-xs mb-6">Recover disk space</div>
+                </div>
+                <div>
+                  <span
+                    class="bg-white text-blue-600 rounded-full px-3 py-1 text-xs font-bold uppercase"
+                  >Open</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="w-1/2 pl-6">
+            <div class="flex mb-8" @click="product('The Sims 2: Super Collection')">
+              <div>
+                <img src="../assets/icon_sims.png" alt="icon" class="w-12" />
+              </div>
+              <div class="ml-3">4</div>
+              <div class="ml-3 flex flex-1 justify-between border-b border-grey-darker">
+                <div>
+                  <div class="mb-1">The Sims 2: Super Collection</div>
+                  <div class="text-grey text-xs mb-6">Your faves in one place</div>
+                </div>
+                <div>
+                  <span
+                    class="bg-white text-blue-600 rounded-full px-3 py-1 text-xs font-bold"
+                  >$39.99</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="flex mb-8" @click="product('Word Document Writer Pro')">
+              <div>
+                <img src="../assets/icon_word.png" alt="icon" class="w-12" />
+              </div>
+              <div class="ml-3">5</div>
+              <div class="ml-3 flex flex-1 justify-between border-b border-grey-darker">
+                <div>
+                  <div class="mb-1">Word Document Writer Pro</div>
+                  <div class="text-grey text-xs mb-6">Business</div>
+                </div>
+                <div>
+                  <span
+                    class="bg-white text-blue-600 rounded-full px-3 py-1 text-xs font-bold"
+                  >$39.99</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="flex mb-8" @click="product('Antivirus Zap - Virus & Adware')">
+              <div>
+                <img src="../assets/icon_antivirusapp.png" alt="icon" class="w-12" />
+              </div>
+              <div class="ml-3">6</div>
+              <div class="ml-3 flex flex-1 justify-between">
+                <div>
+                  <div class="mb-1">Antivirus Zap - Virus & Adware</div>
+                  <div class="text-grey text-xs mb-6">Scan & Remove Malware & Adware</div>
+                </div>
+                <div>
+                  <span
+                    class="bg-white text-blue-600 rounded-full px-3 py-1 text-xs font-bold"
+                  >$6.99</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end top-paid -->
+
+    <div class="border-b border-gray-500 mb-4"></div>
+
+    <div class="text-gray-600 mb-10 px-10">Terms & Conditions</div>
   </div>
 </template>
 
