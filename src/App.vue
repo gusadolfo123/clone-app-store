@@ -1,32 +1,28 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
+  <div id="app" class="font-sans flex min-h-screen">
+    <sidebar></sidebar>
+    <router-view />
   </div>
 </template>
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<script>
+import Sidebar from "./components/Sidebar";
 
-#nav {
-  padding: 30px;
-}
+export default {
+  components: {
+    Sidebar
+  }
+};
 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
+const customTitlebar = require("custom-electron-titlebar");
 
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
-</style>
+let customTitleBar = new customTitlebar.Titlebar({
+  backgroundColor: customTitlebar.Color.fromHex("#444")
+});
+
+customTitleBar.updateIcon("./assets/icono.png");
+customTitleBar.updateTitle("Generate Batch App");
+
+</script>
+
+<style src="./assets/main.css">

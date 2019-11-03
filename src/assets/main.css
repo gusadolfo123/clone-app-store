@@ -1,0 +1,53 @@
+@tailwind base;
+
+.router-link-exact-active {
+	@apply bg-gray-700;
+}
+
+.clickable {
+	-webkit-app-region: no-drag;
+}
+
+.border-blackblack {
+	border-color: black;
+}
+
+::-webkit-scrollbar {
+	background-color: #2b2b2b;
+	border-left: 1px solid #3e3e3e;
+	width: 0.65rem;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #6b6b6b;
+	border-radius: 10px;
+}
+
+.discover-banner {
+	background: url('./discover1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 300px;
+}
+
+.gray-color {
+	background-color: #555555;
+}
+
+.gray-color-icon {
+	background-color: #555555 !important;
+}
+
+.gray-color-icon:hover {
+	background-color: #6d6d6d !important;
+}
+
+.discover-banner {
+	background: url('./discover1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 300px;
+}
+
+@tailwind components;
+@tailwind utilities;
